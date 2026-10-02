@@ -41,5 +41,5 @@ Línea de investigación dentro del semillero de videojuegos e IA de la UCO: ene
 
 ¿Tienes una oportunidad en desarrollo backend o quieres hablar de microservicios o IA en videojuegos? ¡Escríbeme!
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/santiago-torres-435513278/
 ✉️ santitorres032704@gmail.com
