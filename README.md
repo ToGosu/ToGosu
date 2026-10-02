@@ -37,7 +37,6 @@ Línea de investigación dentro del semillero de videojuegos e IA de la UCO: ene
 
 📜 Certificaciones
 ☕ Java Fundamentals, Oracle Academy (2023)
-📫 Contacto
 
 ¿Tienes una oportunidad en desarrollo backend o quieres hablar de microservicios o IA en videojuegos? ¡Escríbeme!
 
