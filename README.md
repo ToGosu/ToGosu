@@ -104,19 +104,6 @@ Applied AI/data project focused on cattle counting using a hybrid detection-base
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ToGosu&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToGosu&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ToGosu&hide_border=true&theme=transparent" alt="GitHub streak"/>
-</p>
-
----
-
 ## 📫 Contact
 
 I'm open to **learning opportunities**, **academic collaboration** and **software development projects**.
